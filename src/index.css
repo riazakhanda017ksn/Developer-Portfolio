@@ -18,10 +18,21 @@ body {
 /* Showcase */
 .showcase {
   height: 100vh;
-  background: url('./assets/showcase.jpg') no-repeat center/cover;
+  background: url('./assets/1.jpg') no-repeat top center/cover;
 }
 
 .showcase .overlay {
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.8);
+  background: linear-gradient(
+45deg
+, rgba(0, 0, 0, 0.808), rgba(8, 36, 80, 0.705));
+}
+.custom-background {
+  height: 420vh;
+  background: url('./assets/2.jpg') no-repeat top center/cover;
+  
+}
+
+a{
+  font-weight: 600;
 }

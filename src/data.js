@@ -2,12 +2,12 @@ const data = [
   {
     id: 1,
     path: './images/easybank-landing-page.png',
-    desc: 'Easybank Landing Page',
+    desc: 'Mobile Service',
   },
   {
     id: 2,
     path: './images/fylo-landing-page.png',
-    desc: 'Fylo Landing Page',
+    desc: 'News Send',
   },
   {
     id: 3,
